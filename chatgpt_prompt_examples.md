@@ -1,5 +1,3 @@
-```markdown
-
 # Experiments in prompting
 
 These were done using the chat.openai.com chat interface. 
