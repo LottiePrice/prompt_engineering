@@ -11,11 +11,12 @@ It really really struggled with this. The default data scientist ad must be very
 
 ## Healthcare: does patient history get attributed correctly?
 
-tl;dr: yes
+yes
 
 [Processing patient notes](https://chat.openai.com/share/ecaf82cf-1042-498d-99d5-b8a48cf97506)
 
 ## Fooled into making a buzzword-filled ad
+If asked explicitly to add buzzwords it doesn't want to, but it doesn't resist too hard.
 
 [All the buzzwords](https://chat.openai.com/share/f563eb68-15f0-4175-9436-f03402423d22)
 
