@@ -2,6 +2,8 @@
 
 These were done using the chat.openai.com chat interface. 
 I've also used the API via Python to access it programmatically. Demo of that is elsewhere.
+The API is better for batch-testing a prompt to make sure it's robust. (It may not be on its own. 
+Multiple steps may be needed.)
 
 ## Data Scientist job post that's friendly to people with imposter syndrome
 
@@ -11,7 +13,8 @@ It really really struggled with this. The default data scientist ad must be very
 
 ## Healthcare: does patient history get attributed correctly?
 
-yes
+Yes. A colleague in the HC industry had trouble with family history being attributed to patient, but chatgpt seems 
+able to sort it out, even when pressed. This is a pretty short text, though. A longer history or set of notes might stump it. 
 
 [Processing patient notes](https://chat.openai.com/share/ecaf82cf-1042-498d-99d5-b8a48cf97506)
 
