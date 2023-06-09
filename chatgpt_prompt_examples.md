@@ -5,6 +5,10 @@ I've also used the API via Python to access it programmatically. Demo of that is
 The API is better for batch-testing a prompt to make sure it's robust. (It may not be on its own. 
 Multiple steps may be needed.)
 
+ChatGPT is also useful for answering coding questions, though it's worth checking. 
+When I asked about markdown for github, it told me that I could initialize the file with ```markdown
+and that failed.
+
 ## Data Scientist job post that's friendly to people with imposter syndrome
 
 It really really struggled with this. The default data scientist ad must be very common.
